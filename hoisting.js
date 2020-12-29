@@ -5,8 +5,10 @@ function callMe() {
   console.log("so call me");
   return lyric;
   var lyric = "maybe";
+  return lyric;
+  
 }
-
+callMe();
 
 function crazy() {
   // fix the code in here:
